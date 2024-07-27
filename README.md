@@ -1,1 +1,1 @@
-# mjsong.github.io
+# Ming-Jie Song's blog
